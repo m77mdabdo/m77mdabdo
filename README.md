@@ -16,14 +16,7 @@ I build secure and scalable web systems with clean, maintainable code.
 
 ---
 
-### 📌 Projects
 
-- 🏨 Hotel Booking System (PHP Native + PayPal Integration)
-- 🛒 POS System with categories, real-time kitchen orders
-- 📚 Library Management App (Laravel)
-- 🧑‍💼 Mini CRM for customers and follow-ups
-
----
 
 ### 📫 How to reach me
 
