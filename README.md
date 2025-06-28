@@ -27,7 +27,7 @@ I build secure and scalable web systems with clean, maintainable code.
 
 ### 📫 How to reach me
 
-- LinkedIn: [linkedin.com/in/m77mdabdo](www.linkedin.com/in/mohamed-abdo-94a9872a1)
+- LinkedIn: https://www.linkedin.com/in/mohamed-abdo-94a9872a1/
 - GitHub: [github.com/m77mdabdo](https://github.com/m77mdabdo)
 
 ---
