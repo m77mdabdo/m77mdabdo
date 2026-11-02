@@ -15,20 +15,71 @@
 
 I build bilingual (Arabic / English, RTL-first) web platforms for Saudi businesses: e-commerce, booking, CRM and CMS systems that run in production for real clients. My focus is the backend: clean domain logic, roles and permissions, security, and tests that hold the system in place.
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Production_platforms-8-FF2D20?style=for-the-badge" alt="Production platforms: 8">
+<img src="https://img.shields.io/badge/Live_in_production-3_sites-2EA043?style=for-the-badge" alt="Live in production: 3 sites">
+<img src="https://img.shields.io/badge/Languages_shipped-6-8957E5?style=for-the-badge" alt="Languages shipped: 6">
+<img src="https://img.shields.io/badge/Automated_tests-3%2C900%2B-F59E0B?style=for-the-badge" alt="Automated tests: 3,900+">
+
+</div>
+
 ---
 
-## Selected work
+## 🚀 Featured projects
 
-| Project | What it is | Stack | Highlights |
-|---|---|---|---|
-| [**Riyadat Al-Jawhara**](https://github.com/m77mdabdo/riyadat_al_jawhara) | Website, stone catalogue, CRM and no-code CMS for a Saudi natural-stone company | Laravel 12 · Filament 3 · Livewire · Tailwind | CI with Pint + Larastan level 6 · per-area roles and permissions · bilingual admin guide |
-| [**MASAR**](https://github.com/m77mdabdo/masar) | Arabic-first business media platform published in six languages | Laravel 12 · Filament 4 · Pest · Tailwind 4 | 6 editions with full i18n · WCAG 2.2 AA · backup and mail hardening |
-| [**Dar El Jamila**](https://github.com/m77mdabdo/Dar_El-) · [live](https://dareljamila.com) | Luxury modest-fashion e-commerce: storefront, back office and operations | Laravel 13 · Tailwind · Alpine.js | In production · GitHub Actions · XSS and authorization fixes · activity log |
-| [**Rehlet Sehha**](https://github.com/m77mdabdo/rehlet_sehha) · [live](https://rehletsehha.com) | Website, online booking and staff panel for a clinical-nutrition practice | Laravel 12 · Filament 5 · Livewire 4 · Pest | In production · scheduled deployment watcher · Larastan |
-| [**Creative Mark**](https://github.com/m77mdabdo/creative_mark) | Multilingual corporate site and CMS for a business-formation consultancy | Laravel 13 · React 19 · TypeScript · Inertia 3 · Filament 5 | Full-stack SPA · six languages |
-| [**Saudi-Ready Check**](https://github.com/m77mdabdo/Saudi-Investment-Check) · [live](https://investment.dareljamila.com) | Event registration and market-readiness platform with a built-in CRM console | Laravel 12 · Tailwind | In production · private photo storage |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dareljamila.com"><img src="https://raw.githubusercontent.com/m77mdabdo/Dar_El-/main/docs/screenshots/home-en.jpg" width="100%" alt="Dar El Jamila screenshot"></a>
+      <h3>👗 Dar El Jamila</h3>
+      <p>Luxury modest-fashion e-commerce with a full back office: catalogue, orders, inventory, customers and reports. Running in production.</p>
+      <p><img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white" alt=""> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt=""></p>
+      <p><a href="https://dareljamila.com"><b>🌐 Live site</b></a> &nbsp;·&nbsp; <a href="https://github.com/m77mdabdo/Dar_El-"><b>📂 Source</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/m77mdabdo/masar"><img src="https://raw.githubusercontent.com/m77mdabdo/masar/main/docs/screenshots/home-hero-en.jpg" width="100%" alt="MASAR screenshot"></a>
+      <h3>📰 MASAR</h3>
+      <p>Arabic-first business media platform for Saudi Arabia, published in six languages with an editorial pipeline and market data.</p>
+      <p><img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Filament_4-FDAE4B?style=flat-square&logo=filament&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Pest-F472B6?style=flat-square" alt=""> <img src="https://img.shields.io/badge/WCAG_2.2_AA-0F4A3B?style=flat-square" alt=""></p>
+      <p><a href="https://github.com/m77mdabdo/masar"><b>📂 Source</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://rehletsehha.com"><img src="https://raw.githubusercontent.com/m77mdabdo/rehlet_sehha/main/docs/images/home-en.webp" width="100%" alt="Rehlet Sehha screenshot"></a>
+      <h3>🥗 Rehlet Sehha</h3>
+      <p>Website, online booking and staff panel for a clinical-nutrition practice, with appointments, packages and articles.</p>
+      <p><img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Filament_5-FDAE4B?style=flat-square&logo=filament&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Livewire_4-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Larastan-4F5B93?style=flat-square&logo=php&logoColor=white" alt=""></p>
+      <p><a href="https://rehletsehha.com"><b>🌐 Live site</b></a> &nbsp;·&nbsp; <a href="https://github.com/m77mdabdo/rehlet_sehha"><b>📂 Source</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/m77mdabdo/riyadat_al_jawhara"><img src="https://raw.githubusercontent.com/m77mdabdo/riyadat_al_jawhara/main/docs/images/home-en.webp" width="100%" alt="Riyadat Al-Jawhara screenshot"></a>
+      <h3>🪨 Riyadat Al-Jawhara</h3>
+      <p>Website, stone catalogue, CRM and no-code CMS for a Saudi natural-stone company, with per-area roles and permissions.</p>
+      <p><img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Filament_3-FDAE4B?style=flat-square&logo=filament&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt=""> <img src="https://img.shields.io/badge/CI_%C2%B7_Larastan_L6-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt=""></p>
+      <p><a href="https://github.com/m77mdabdo/riyadat_al_jawhara"><b>📂 Source</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/m77mdabdo/creative_mark"><img src="https://raw.githubusercontent.com/m77mdabdo/creative_mark/main/docs/screenshots/home-hero-alula.jpg" width="100%" alt="Creative Mark screenshot"></a>
+      <h3>🏛️ Creative Mark</h3>
+      <p>Multilingual corporate site and CMS for a business-formation consultancy: services, 13 region pages and an investor guide.</p>
+      <p><img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt=""> <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=white" alt=""> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white" alt=""></p>
+      <p><a href="https://github.com/m77mdabdo/creative_mark"><b>📂 Source</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://investment.dareljamila.com"><img src="https://raw.githubusercontent.com/m77mdabdo/Saudi-Investment-Check/main/docs/screenshots/01-portal-start.webp" width="100%" alt="Saudi-Ready Check screenshot"></a>
+      <h3>📈 Saudi-Ready Check</h3>
+      <p>Event registration and market-readiness platform with a scroll-driven portal, private photo storage and a CRM console.</p>
+      <p><img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt=""> <img src="https://img.shields.io/badge/CRM-1F2937?style=flat-square" alt=""></p>
+      <p><a href="https://investment.dareljamila.com"><b>🌐 Live site</b></a> &nbsp;·&nbsp; <a href="https://github.com/m77mdabdo/Saudi-Investment-Check"><b>📂 Source</b></a></p>
+    </td>
+  </tr>
+</table>
 
-## What I work with
+## 🛠️ Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -80,12 +131,37 @@ I build bilingual (Arabic / English, RTL-first) web platforms for Saudi business
   </tr>
 </table>
 
-## How I work
+## 💡 How I work
 
-- Every feature ships with tests, and every bug fix gets a test that would have caught it.
-- Authorization lives in policies and permissions, never only in the UI.
-- Commits explain *why*, so the history is readable a year later.
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🧪</h3>
+      <b>Tested by default</b>
+      <p>Every feature ships with tests, and every bug fix gets a test that would have caught it.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🔐</h3>
+      <b>Secure by design</b>
+      <p>Authorization lives in policies and permissions, never only in the UI.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>📜</h3>
+      <b>Readable history</b>
+      <p>Commits explain <i>why</i>, so the history still makes sense a year later.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-Open to backend and full-stack Laravel roles in Saudi Arabia and remote.
+<div align="center">
+
+### 🤝 Let's build something together
+
+Open to **backend** and **full-stack Laravel** roles in Saudi Arabia and remote.
+
+<a href="https://www.linkedin.com/in/mohamed-abdo-94a9872a1/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+<a href="mailto:mohamedabdo.dev@gmail.com"><img src="https://img.shields.io/badge/Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello by email"></a>
+
+</div>
