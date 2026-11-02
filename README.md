@@ -41,10 +41,10 @@ I build bilingual (Arabic / English, RTL-first) web platforms for Saudi business
     <td width="170"><b>⚙️ Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/PHP_8.4-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.4">
-      <img src="https://img.shields.io/badge/Laravel_12%20%2F%2013-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12 %2F 13">
+      <img src="https://img.shields.io/badge/Laravel_12%20%2F%2013-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12 / 13">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-      <img src="https://img.shields.io/badge/Queues_%26_Scheduler-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Queues %26 Scheduler">
+      <img src="https://img.shields.io/badge/Queues_%26_Scheduler-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Queues &amp; Scheduler">
     </td>
   </tr>
   <tr>
@@ -72,9 +72,9 @@ I build bilingual (Arabic / English, RTL-first) web platforms for Saudi business
   <tr>
     <td><b>🌍 Product</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Arabic_%2F_English_RTL-006C35?style=for-the-badge" alt="Arabic %2F English RTL">
-      <img src="https://img.shields.io/badge/6--language_i18n-0F4A3B?style=for-the-badge" alt="6--language i18n">
-      <img src="https://img.shields.io/badge/Roles_%26_Permissions-1F2937?style=for-the-badge" alt="Roles %26 Permissions">
+      <img src="https://img.shields.io/badge/Arabic_%2F_English_RTL-006C35?style=for-the-badge" alt="Arabic / English RTL">
+      <img src="https://img.shields.io/badge/6--language_i18n-0F4A3B?style=for-the-badge" alt="6-language i18n">
+      <img src="https://img.shields.io/badge/Roles_%26_Permissions-1F2937?style=for-the-badge" alt="Roles &amp; Permissions">
       <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
     </td>
   </tr>
