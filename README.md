@@ -31,11 +31,11 @@ I build bilingual (Arabic / English, RTL-first) web platforms for Saudi business
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://dareljamila.com"><img src="https://raw.githubusercontent.com/m77mdabdo/Dar_El-/main/docs/screenshots/home-en.jpg" width="100%" alt="Dar El Jamila screenshot"></a>
+      <a href="https://dareljamila.com"><img src="https://raw.githubusercontent.com/m77mdabdo/dar-el-jamila/main/docs/screenshots/home-en.jpg" width="100%" alt="Dar El Jamila screenshot"></a>
       <h3>👗 Dar El Jamila</h3>
       <p>Luxury modest-fashion e-commerce with a full back office: catalogue, orders, inventory, customers and reports. Running in production.</p>
       <p><img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white" alt=""> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt=""></p>
-      <p><a href="https://dareljamila.com"><b>🌐 Live site</b></a> &nbsp;·&nbsp; <a href="https://github.com/m77mdabdo/Dar_El-"><b>📂 Source</b></a></p>
+      <p><a href="https://dareljamila.com"><b>🌐 Live site</b></a> &nbsp;·&nbsp; <a href="https://github.com/m77mdabdo/dar-el-jamila"><b>📂 Source</b></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/m77mdabdo/masar"><img src="https://raw.githubusercontent.com/m77mdabdo/masar/main/docs/screenshots/home-hero-en.jpg" width="100%" alt="MASAR screenshot"></a>
